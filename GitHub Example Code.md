@@ -27,13 +27,21 @@ print(random.choice(Scoring), "should exlpore", random.choice(city_list))
 
 
 ```python
-
+# now lets add a type of transportation to how they should get there
 ```
 
 
 ```python
-
+travel = ['walk/run', 'take the bus', 'drive', 'fly', 'take a boat']
 ```
+
+
+```python
+print(random.choice(Scoring), "should", random.choice(travel), "to", random.choice(city_list))
+```
+
+     Panyiota should fly to Rome
+
 
 
 ```python
