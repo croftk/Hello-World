@@ -10,11 +10,12 @@ do i = 1 to 10;
 end;
 run;
 
-
+/* find the frequencies of U */
 proc freq data=a;
 table U;
 
 
 run;
+
 
 
