@@ -32,7 +32,7 @@ print(random.choice(Scoring), "should exlpore", random.choice(city_list))
 
 
 ```python
-travel = ['walk/run', 'take the bus', 'drive', 'fly', 'take a boat']
+travel = ['walk/run', 'take the bus', 'drive', 'fly', 'go by boat']
 ```
 
 
@@ -40,7 +40,7 @@ travel = ['walk/run', 'take the bus', 'drive', 'fly', 'take a boat']
 print(random.choice(Scoring), "should", random.choice(travel), "to", random.choice(city_list))
 ```
 
-     Panyiota should fly to Rome
+     Panyiota should walk/run to Tokyo
 
 
 
